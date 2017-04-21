@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+!DOCTYPE html>
 <head>
   <title>Quamique Marcial</title>
   <style>
@@ -43,7 +42,7 @@
  </style>
 </head>
 
-<body><div class="navbar">
+<body><div class="navbar">s
  <ul>
       <li><a href="homepage.html">Home</a></li>
       <li><a href="about.html">About</a></li>
@@ -60,4 +59,4 @@
 
     <img src="http://www.knowitalljoe.com/wp-content/uploads/2015/05/Big-Bang-Soundstage.jpg"
   <input type="email" placeholder="Your email">
-  </body></p>
+  </body></p>s
